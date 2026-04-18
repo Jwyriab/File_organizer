@@ -1,7 +1,6 @@
 # 🗂️ File Organizer
 
 A Python script that automatically sorts files in any folder into categorized subfolders.  
-Part of my Python scripting portfolio — developed while applying to Howest University of Applied Sciences, Belgium.
 
 ---
 
@@ -88,4 +87,4 @@ python3 file_organizer.py -d /path/to/folder
 ## 👩‍💻 About
 
 Built by **Jaweria Batool** — self-taught Python on Ubuntu Linux.  
-Cybersecurity enthusiast applying to Howest University, Belgium 🇧🇪
+Cybersecurity enthusiast 
